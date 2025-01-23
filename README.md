@@ -15,7 +15,6 @@ Currently, two official plugins are available:
 - **Répertoire de base** : `./` (répertoire du projet)
 - **Commande de build** : `npm run build`
 - **Répertoire de publication** : `dist` (dossier de build Vite par défaut)
-- **Répertoire des fonctions** : `/`
 
 ## Variables d'Environnement
 
