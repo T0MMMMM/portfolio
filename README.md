@@ -12,9 +12,9 @@ Currently, two official plugins are available:
 ## Paramètres de Build
 
 - **Branche de déploiement** : `main`
-- **Répertoire de base** : `/` (racine du projet)
+- **Répertoire de base** : `./` (répertoire du projet)
 - **Commande de build** : `npm run build`
-- **Répertoire de publication** : `/`
+- **Répertoire de publication** : `dist` (dossier de build Vite par défaut)
 - **Répertoire des fonctions** : `/`
 
 ## Variables d'Environnement

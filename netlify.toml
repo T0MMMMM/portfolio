@@ -1,6 +1,7 @@
 [build]
   # Branche à déployer
-  publish = "/"
+  base = "./"      # ou laissez vide si votre projet est à la racine
+  publish = "dist" # Vite utilise 'dist' comme répertoire de build par défaut
   command = "npm run build"
   functions = "/"
 
