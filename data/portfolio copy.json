@@ -6,6 +6,7 @@
   "headerTaglineFour": "basé à Montpellier, France.",
   "showBlog": false,
   "darkMode": true,
+  "showResume": true,
   "socials": [
     { "id": "1", "title": "Github", "link": "https://github.com/T0MMMMM" },
     { "id": "2", "title": "LinkedIn", "link": "https://www.linkedin.com/in/tom-fuster-a919a4310" },
