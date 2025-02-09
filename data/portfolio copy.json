@@ -1,0 +1,36 @@
+{
+  "name": "Tom",
+  "headerTaglineOne": "Bonjour 👋",
+  "headerTaglineTwo": "Je suis Tom Fuster - curieux",
+  "headerTaglineThree": "développeur spécialisé en IA",
+  "headerTaglineFour": "basé à Montpellier, France.",
+  "showBlog": false,
+  "darkMode": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/T0MMMMM" },
+    { "id": "2", "title": "LinkedIn", "link": "https://www.linkedin.com/in/tom-fuster-a919a4310" },
+    { "id": "3", "title": "Email", "link": "mailto:tom.fuster34000@gmail.com" }
+  ],
+  "projects": [
+    { "id": "1", "title": "Forum", "description": "Développement d'un forum en Go avec gestion des websockets pour la communication en temps réel.", "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60", "url": "https://github.com/T0MMMMM/forum" },
+    { "id": "2", "title": "Projet RED", "description": "Création d'un jeu vidéo en Go avec des fonctionnalités de combat et de progression du personnage.", "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60", "url": "https://github.com/T0MMMMM/ProjetRED" },
+    { "id": "3", "title": "Fallen Angel", "description": "Développement d'un jeu en Python avec Pygame intégrant un moteur physique avancé.", "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60", "url": "https://github.com/T0MMMMM/Fallen-Angel" }
+  ],
+  "services": [
+    { "id": "1", "title": "Développement IA", "description": "Création et optimisation d'algorithmes d'intelligence artificielle." },
+    { "id": "2", "title": "Développement Web", "description": "Développement d'applications web modernes avec les frameworks actuels." }
+  ],
+  "aboutpara": "Après deux ans passés à étudier les différents domaines de l'informatique, j'aimerais me lancer dans le monde professionnel et me spécialiser dans le développement informatique et plus précisément l'intelligence artificielle. Je recherche donc activement une alternance dans ces domaines, à un rythme de deux semaines en entreprise et une semaine d'étude, pour une durée de trois ans, jusqu'à la fin de mon Mastère 2, de 2025 à 2028.",
+  "resume": {
+    "tagline": "👋 Je suis un ingénieur logiciel spécialisé en IA et développement web.",
+    "description": "Passionné par l'intelligence artificielle et le développement web, j'ai acquis des compétences solides en programmation et en gestion de projet.",
+    "experiences": [
+      { "id": "1", "dates": "Septembre 2024 - Février 2025", "type": "Stage", "position": "Mentor en Informatique", "company": "Montpellier Ynov Campus", "bullets": ["Accompagnement pédagogique des étudiants", "Organisation de projets et gestion des difficultés"] },
+      { "id": "2", "dates": "Décembre 2022", "type": "Stage", "position": "Technicien Informatique", "company": "Boost Informatique", "bullets": ["Gestion de la relation client", "Installation et maintenance de systèmes informatiques"] }
+    ],
+    "education": { "universityName": "Montpellier Ynov Campus", "universityDate": "2023-2026", "universityPara": "Actuellement en Bachelor Informatique, je me spécialise en développement IA." },
+    "languages": ["Python", "Golang", "C", "Java", "C#", "PHP", "JavaScript"],
+    "frameworks": ["Tensorflow", "Keras", "Numpy", "Pandas", "html/template", "Pygame"],
+    "others": ["Git", "Linux", "Figma", "Trello", "VSC"]
+  }
+}
