@@ -11,7 +11,8 @@
   "socials": [
     { "id": "1", "title": "Github", "link": "https://github.com/T0MMMMM" },
     { "id": "2", "title": "LinkedIn", "link": "https://www.linkedin.com/in/tom-fuster-a919a4310" },
-    { "id": "3", "title": "Email", "link": "mailto:tom.fuster34000@gmail.com" }
+    { "id": "3", "title": "Email", "link": "mailto:tom.fuster34000@gmail.com" },
+    { "id": "4", "title": "Phone", "link": "tel:+33613235755" }
   ],
   "projects": [
     { "id": "1", "title": "Forum", "description": "Développement d'un forum en Go avec gestion des websockets pour la communication en temps réel.", "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60", "url": "https://github.com/T0MMMMM/forum" },
