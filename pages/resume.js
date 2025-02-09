@@ -67,7 +67,7 @@ const Resume = () => {
                   )
                 )}
               </div>
-              <div className="mt-5">
+              {/*<div className="mt-5">
                 <h1 className="text-2xl font-bold">Education</h1>
                 <div className="mt-2">
                   <h2 className="text-lg">{resume.education.universityName}</h2>
@@ -121,7 +121,7 @@ const Resume = () => {
                     </div>
                   )}
                 </div>
-              </div>
+              </div>*/}
             </div>
           </div>
         )}
