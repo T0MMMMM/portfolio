@@ -2,7 +2,7 @@
   "name": "Tom",
   "headerTaglineOne": "Bonjour 👋",
   "headerTaglineTwo": "Je suis Tom Fuster - curieux",
-  "headerTaglineThree": "développeur spécialisé en IA",
+  "headerTaglineThree": "développeur débutant en IA",
   "headerTaglineFour": "basé à Montpellier, France.",
   "showBlog": false,
   "darkMode": true,
@@ -27,8 +27,8 @@
     "tagline": "👋 Je suis un ingénieur logiciel spécialisé en IA et développement web.",
     "description": "Passionné par l'intelligence artificielle et le développement web, j'ai acquis des compétences solides en programmation et en gestion de projet.",
     "experiences": [
-      { "id": "1", "dates": "Septembre 2024 - Février 2025", "type": "Stage", "position": "Mentor en Informatique", "company": "Montpellier Ynov Campus", "bullets": ["Accompagnement pédagogique des étudiants", "Organisation de projets et gestion des difficultés"] },
-      { "id": "2", "dates": "Décembre 2022", "type": "Stage", "position": "Technicien Informatique", "company": "Boost Informatique", "bullets": ["Gestion de la relation client", "Installation et maintenance de systèmes informatiques"] }
+      { "id": "1", "dates": "Septembre 2024 - Février 2025", "type": "Stage", "position": "Mentor en Informatique", "bullets": ["Accompagnement pédagogique des étudiants", "Organisation de projets et gestion des difficultés"] },
+      { "id": "2", "dates": "Décembre 2022", "type": "Stage", "position": "Technicien Informatique", "bullets": ["Gestion de la relation client", "Installation et maintenance de systèmes informatiques"] }
     ],
     "education": { "universityName": "Montpellier Ynov Campus", "universityDate": "2023-2026", "universityPara": "Actuellement en Bachelor Informatique, je me spécialise en développement IA." },
     "languages": ["Python", "Golang", "C", "Java", "C#", "PHP", "JavaScript"],
