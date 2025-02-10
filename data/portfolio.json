@@ -10,8 +10,8 @@
     "showCursor": true,
     "socials": [
       { "id": "1", "title": "Github", "link": "https://github.com/T0MMMMM" },
-      { "id": "2", "title": "LinkedIn", "link": "https://www.linkedin.com/in/tom-fuster-a919a4310" },
       { "id": "3", "title": "Email", "link": "mailto:tom.fuster34000@gmail.com" },
+      { "id": "2", "title": "LinkedIn", "link": "https://www.linkedin.com/in/tom-fuster-a919a4310" },
       { "id": "4", "title": "Phone", "link": "tel:+33613235755" }
     ],
     "projects": [
@@ -25,7 +25,7 @@
     ],
     "aboutpara": "Après deux ans passés à étudier les différents domaines de l'informatique, j'aimerais me lancer dans le monde professionnel et me spécialiser dans le développement informatique et plus précisément l'intelligence artificielle. Je recherche donc activement une alternance dans ces domaines, à un rythme de deux semaines en entreprise et une semaine d'étude, pour une durée de trois ans, jusqu'à la fin de mon Mastère 2, de 2025 à 2028.",
     "resume": {
-      "tagline": "👋 Je suis un ingénieur logiciel spécialisé en IA et développement web.",
+      "tagline": "👋 Je suis un développeur débutant en IA et développement web.",
       "description": "Passionné par l'intelligence artificielle et le développement web, j'ai acquis des compétences solides en programmation et en gestion de projet.",
       "experiences": [
         { "id": "1", "dates": "Septembre 2024 - Février 2025", "type": "Stage", "position": "Mentor en Informatique", "bullets": ["Accompagnement pédagogique des étudiants", "Organisation de projets et gestion des difficultés"] },
@@ -34,6 +34,6 @@
       "education": { "universityName": "Montpellier Ynov Campus", "universityDate": "2023-2026", "universityPara": "Actuellement en Bachelor Informatique, je me spécialise en développement IA." },
       "languages": ["Python", "Golang", "C", "Java", "C#", "PHP", "JavaScript"],
       "frameworks": ["Tensorflow", "Keras", "Numpy", "Pandas", "html/template", "Pygame"],
-      "others": ["Git", "Linux", "Figma", "Trello", "VSC"]
+      "others": ["Git", "Linux", "Trello", "VSC", "Figma"]
     }
 }
