@@ -1,12 +1,7 @@
 import React from "react";
 
 const ProjectResume = ({ dates, type, position, bullets }) => {
-  console.log(dates, type, position);
-  console.log(bullets);
-
   const [bulletsLocal, setBulletsLocal] = React.useState(bullets);
-
-  console.log(bulletsLocal);
 
   return (
     <div className="mt-5 w-full flex mob:flex-col desktop:flex-row justify-between">
