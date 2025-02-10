@@ -4,7 +4,7 @@ const ProjectResume = ({ dates, type, position, bullets }) => {
   console.log(dates, type, position);
   console.log(bullets);
 
-  const [bulletsLocal, setBulletsLocal] = React.useState(bullets.split(","));
+  const [bulletsLocal, setBulletsLocal] = React.useState(bullets);
 
   console.log(bulletsLocal);
 
