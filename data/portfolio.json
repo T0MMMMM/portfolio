@@ -15,9 +15,11 @@
       { "id": "4", "title": "CV", "link": "https://tom-fuster.netlify.app/CV_Tom_Fuster.pdf" }
     ],
     "projects": [
-      { "id": "1", "title": "Forum", "description": "Développement d'un forum en Go avec gestion des websockets pour la communication en temps réel.", "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60", "url": "https://github.com/T0MMMMM/forum" },
-      { "id": "2", "title": "Projet RED", "description": "Création d'un jeu vidéo en Go utilisant le framework Raylib avec des fonctionnalités de combat et de progression du personnage.", "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60", "url": "https://github.com/T0MMMMM/ProjetRED" },
-      { "id": "3", "title": "Fallen Angel", "description": "Développement d'un jeu en Python avec Pygame intégrant un moteur physique avancé.", "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60", "url": "https://github.com/T0MMMMM/Fallen-Angel" }
+      { "id": "1", "title": "Forum", "description": "Développement d'un forum en Go avec gestion des websockets pour la communication en temps réel et systeme de base de données avec sql.", "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60", "url": "https://github.com/T0MMMMM/forum" },
+      { "id": "2", "title": "Projet RED", "description": "Création d'un jeu vidéo en Go utilisant le framework Raylib avec des fonctionnalités de combat, de classes et de progression du personnage.", "imageSrc": "/images/ProjetRED.png", "url": "https://github.com/T0MMMMM/ProjetRED" },
+      { "id": "3", "title": "Fallen Angel", "description": "Développement d'un jeu en C# sur unity intégrant un moteur physique avancé avec différents pouvoirs et un lore évolué.", "imageSrc": "/images/FallenAngel.png", "url": "https://github.com/T0MMMMM/FallenAngel" },
+      { "id": "4", "title": "Compilateur C", "description": "Début de création d'un compilateur en C avec un lexer et un parser afin de peut etre créer le langage yone.", "imageSrc": "/images/C.png", "url": "https://github.com/T0MMMMM/compiler-yone" },
+      { "id": "5", "title": "Regression Lineaire", "description": "Projet d'un algorithme de regression lineaire avec visualisation.", "imageSrc": "/images/regression_lineaire.png", "url": "https://github.com/T0MMMMM/regression_lineaire" }
     ],
     "services": [
       { "id": "1", "title": "Développement IA", "description": "Création et optimisation d'algorithmes d'intelligence artificielle." },
