@@ -19,11 +19,15 @@
       { "id": "2", "title": "Projet RED", "description": "Création d'un jeu vidéo en Go utilisant le framework Raylib avec des fonctionnalités de combat, de classes et de progression du personnage.", "imageSrc": "/images/ProjetRED.png", "url": "https://github.com/T0MMMMM/ProjetRED" },
       { "id": "3", "title": "Fallen Angel", "description": "Développement d'un jeu en C# sur unity intégrant un moteur physique avancé avec différents pouvoirs et un lore évolué.", "imageSrc": "/images/FallenAngel.png", "url": "https://github.com/T0MMMMM/FallenAngel" },
       { "id": "4", "title": "Compilateur C", "description": "Début de création d'un compilateur en C avec un lexer et un parser afin de peut etre créer le langage yone.", "imageSrc": "/images/C.png", "url": "https://github.com/T0MMMMM/compiler-yone" },
-      { "id": "5", "title": "Regression Lineaire", "description": "Projet d'un algorithme de regression lineaire avec visualisation.", "imageSrc": "/images/regression_lineaire.png", "url": "https://github.com/T0MMMMM/regression_lineaire" }
+      { "id": "5", "title": "Regression Lineaire", "description": "Projet d'un algorithme de regression lineaire avec visualisation.", "imageSrc": "/images/regression_lineaire.png", "url": "https://github.com/T0MMMMM/regression_lineaire" },
+      { "id": "6", "title": "Piscine JS", "description": "Réalisation de nombreuses piscine de code en javascript, golang, php, python, c#, sql et java toutes sur ma page github.", "imageSrc": "/images/JS.png", "url": "https://github.com/T0MMMMM/b1-piscine-js" }
     ],
     "services": [
       { "id": "1", "title": "Développement IA", "description": "Création et optimisation d'algorithmes d'intelligence artificielle." },
-      { "id": "2", "title": "Développement Web", "description": "Développement d'applications web modernes avec les frameworks actuels." }
+      { "id": "2", "title": "Développement Web", "description": "Développement d'applications web modernes avec les frameworks actuels." },
+      { "id": "3", "title": "Développement de jeu vidéo", "description": "Développement jeu vidéo en C# avec unity." },
+      { "id": "4", "title": "Développement de Logiciel", "description": "Développement d'applications desktop avec electron ou en Python, C# et Java." }
+
     ],
     "aboutpara": "Après deux ans passés à étudier les différents domaines de l'informatique, j'aimerais me lancer dans le monde professionnel et me spécialiser dans le développement informatique et plus précisément l'intelligence artificielle. Je recherche donc activement une alternance dans ces domaines, à un rythme de deux semaines en entreprise et une semaine d'étude, pour une durée de trois ans, jusqu'à la fin de mon Mastère 2, de 2025 à 2028.",
     "resume": {

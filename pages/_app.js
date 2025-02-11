@@ -6,7 +6,7 @@ const App = ({ Component, pageProps }) => {
   return (
     <ThemeProvider>
       <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/KC.png" />
       </Head>
       <Component {...pageProps} />
     </ThemeProvider>
