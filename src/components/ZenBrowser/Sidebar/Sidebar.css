@@ -1,0 +1,97 @@
+.sidebar {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  overflow: hidden;
+  background: transparent;
+}
+
+.dragZone {
+  display: flex;
+  align-items: center;
+  padding: 10px 8px 4px;
+  gap: 10px;
+}
+
+.navIcon {
+  color: #888888;
+  cursor: pointer;
+  opacity: 0.6;
+  display: flex;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.urlBarWrap {
+  padding: 6px 6px 8px;
+}
+
+.urlBar {
+  display: flex;
+  align-items: center;
+  padding: 0 8px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.05);
+  font-size: 11px;
+  color: #888888;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.funLabel {
+  padding: 10px 10px 4px;
+}
+
+.funText {
+  font-size: 11px;
+  font-weight: 600;
+  color: #888888;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.separatorGroup {
+  margin: 4px 0 0 8px;
+  flex-shrink: 0;
+}
+
+.separatorRow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.separatorLine {
+  flex: 1;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.clearBtn {
+  font-size: 10px;
+  color: #888888;
+  opacity: 0;
+  cursor: pointer;
+  font-family: 'Space Grotesk', sans-serif;
+  flex-shrink: 0;
+  transition: opacity 150ms ease;
+  padding-right: 8px;
+}
+
+.separatorGroup:hover .clearBtn {
+  opacity: 0.4;
+}
+
+.newTab {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 4px;
+  height: 28px;
+  font-size: 12px;
+  color: #888888;
+  opacity: 0.5;
+  cursor: pointer;
+  font-family: 'Space Grotesk', sans-serif;
+}

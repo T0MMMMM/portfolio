@@ -1,0 +1,10 @@
+:root {
+  /* These are kept for any CSS-level usage (media queries, etc.) */
+  --zen-bg: #1a1a1a;
+  --zen-text: #e0e0e0;
+  --zen-text-muted: #888888;
+  --zen-accent: #7b6fde;
+  --zen-tab-active: rgba(123, 111, 222, 0.18);
+  --zen-window-w: min(1280px, 94vw);
+  --zen-window-h: min(720px, 90vh);
+}

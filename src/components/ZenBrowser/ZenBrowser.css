@@ -1,0 +1,28 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  pointer-events: none;
+}
+
+.window {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  pointer-events: auto;
+  transition: width 300ms ease, height 300ms ease, max-height 300ms ease, border-radius 300ms ease;
+}
+
+.mobileOverlay {
+  position: absolute;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+}
+
+.mobileBackdrop {
+  flex: 1;
+}
