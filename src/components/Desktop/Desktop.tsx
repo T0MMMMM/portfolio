@@ -10,7 +10,7 @@ interface DesktopProps {
 const Desktop: React.FC<DesktopProps> = ({ onIconClick }) => {
   return (
     <div className="desktop" style={{ backgroundImage: `url(${bgImage})` }}>
-      <DesktopIcon imageSrc={iconImage} onClick={onIconClick} />
+      <DesktopIcon label="mon portfolio :]" imageSrc={iconImage} onClick={onIconClick} />
     </div>
   );
 };

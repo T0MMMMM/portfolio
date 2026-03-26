@@ -3,8 +3,11 @@ import { motion, AnimatePresence, type Variants } from 'framer-motion';
 import { Menu } from 'lucide-react';
 import WindowControls from '../Toolbar/WindowControls';
 import HomeSection from '../../Portfolio/HomeSection';
-import ProjectsSection from '../../Portfolio/ProjectsSection';
-import AboutSection from '../../Portfolio/AboutSection';
+import EcarPage from '../../Portfolio/EcarPage';
+import BucketlistPage from '../../Portfolio/BucketlistPage';
+import YchessPage from '../../Portfolio/YchessPage';
+import YoutubedlPage from '../../Portfolio/YoutubedlPage';
+import PiscinePage from '../../Portfolio/PiscinePage';
 import ContactSection from '../../Portfolio/ContactSection';
 import { WINDOW_BORDER_SIZE, WINDOW_CONTENT_RADIUS, WINDOW_TOPBAR_EXPANDED_H, WINDOW_TOPBAR_TRANSITION, CONTENT_BG, TEXT_MUTED } from '../../../config/constants';
 import './ContentArea.css';
@@ -21,9 +24,11 @@ interface ContentAreaProps {
 
 const sections: Record<string, React.FC> = {
   home: HomeSection,
-  project1: ProjectsSection,
-  project2: AboutSection,
-  project3: AboutSection,
+  ecar: EcarPage,
+  bucketlist: BucketlistPage,
+  ychess: YchessPage,
+  youtubedl: YoutubedlPage,
+  piscine: PiscinePage,
   contact: ContactSection,
 };
 

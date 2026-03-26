@@ -32,7 +32,7 @@ export const ICON_BORDER_RADIUS = '16px';
 export const PINNED_CELL_HEIGHT = 44;
 export const PINNED_CELL_RADIUS = '6px';
 export const PINNED_CELL_BG = 'rgba(255, 255, 255, 0.06)';
-export const PINNED_ICON_SIZE = 20;
+export const PINNED_ICON_SIZE = 16;
 export const PINNED_GAP = 8;
 
 /* ─── Tabs ─── */

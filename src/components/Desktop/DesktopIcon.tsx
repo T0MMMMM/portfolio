@@ -3,11 +3,12 @@ import { motion } from 'framer-motion';
 import './DesktopIcon.css';
 
 interface DesktopIconProps {
+  label: string;
   imageSrc: string;
   onClick: () => void;
 }
 
-const DesktopIcon: React.FC<DesktopIconProps> = ({ imageSrc, onClick }) => {
+const DesktopIcon: React.FC<DesktopIconProps> = ({ label, imageSrc, onClick }) => {
   const [isPressed, setIsPressed] = useState(false);
   const [bouncing, setBouncing] = useState(false);
 
@@ -29,8 +30,9 @@ const DesktopIcon: React.FC<DesktopIconProps> = ({ imageSrc, onClick }) => {
         transition={bouncing ? { duration: 0.35, ease: 'easeInOut' } : { duration: 0.08, ease: 'easeOut' }}
         onAnimationComplete={() => { if (bouncing) setBouncing(false); }}
       >
-        <img className="icon" src={imageSrc} alt="Portfolio" draggable={false} />
+        <img className="icon" src={imageSrc} alt={label} draggable={false} />
       </motion.div>
+      <span className="label">{label}</span>
     </motion.div>
   );
 };

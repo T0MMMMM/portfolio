@@ -1,0 +1,73 @@
+.project {
+  padding: 40px 32px;
+  height: 100%;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 16px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.15) transparent;
+}
+
+.projectHeader {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.projectTitle {
+  font-size: 32px;
+  font-weight: 700;
+  color: #e0e0e0;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.projectYear {
+  font-size: 14px;
+  color: #7b6fde;
+  font-weight: 600;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.projectDesc {
+  font-size: 15px;
+  color: #e0e0e0;
+  max-width: 500px;
+  line-height: 1.7;
+  opacity: 0.8;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.projectStack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.stackBadge {
+  font-size: 11px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: rgba(123, 111, 222, 0.15);
+  color: #7b6fde;
+  font-weight: 500;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.projectLink {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #888888;
+  text-decoration: none;
+  font-size: 13px;
+  font-family: 'Space Grotesk', sans-serif;
+  transition: color 150ms;
+  cursor: pointer;
+}
+
+.projectLink:hover {
+  color: #7b6fde;
+}

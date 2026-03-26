@@ -11,19 +11,29 @@ const portfolioSections: PortfolioSection[] = [
     faviconUrl: 'https://www.google.com/s2/favicons?domain=google.com&sz=32',
   },
   {
-    id: 'project1',
-    label: 'Projet 1',
-    faviconUrl: 'https://www.google.com/s2/favicons?domain=github.com&sz=32',
+    id: 'ecar',
+    label: 'Ecar',
+    faviconUrl: 'https://www.google.com/s2/favicons?domain=expo.dev&sz=32',
   },
   {
-    id: 'project2',
-    label: 'Projet 2',
-    faviconUrl: 'https://www.google.com/s2/favicons?domain=github.com&sz=32',
+    id: 'bucketlist',
+    label: 'Bucket-list',
+    faviconUrl: 'https://www.google.com/s2/favicons?domain=supabase.com&sz=32',
   },
   {
-    id: 'project3',
-    label: 'Projet 3',
-    faviconUrl: 'https://www.google.com/s2/favicons?domain=github.com&sz=32',
+    id: 'ychess',
+    label: 'Ychess',
+    faviconUrl: 'https://www.google.com/s2/favicons?domain=python.org&sz=32',
+  },
+  {
+    id: 'youtubedl',
+    label: 'YouTubeDL',
+    faviconUrl: 'https://www.google.com/s2/favicons?domain=youtube.com&sz=32',
+  },
+  {
+    id: 'piscine',
+    label: 'Piscine-golang',
+    faviconUrl: 'https://www.google.com/s2/favicons?domain=go.dev&sz=32',
   },
   {
     id: 'contact',
